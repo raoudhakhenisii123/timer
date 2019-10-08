@@ -1,0 +1,30 @@
+.container-time{
+text-align: center;
+}
+.class-time{
+  font-size: 4em;
+  margin: 1px
+}
+.class-hour{
+display: flex;
+justify-content: space-around;
+color: gray;
+}
+.button-start{
+  border-radius: 25x;
+  color: white;
+  margin: 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+background-color: black
+}
+.butoon-reset{
+  border-radius: 25x;
+  color: white;
+  margin: 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  background-color: black
+}
